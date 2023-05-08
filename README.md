@@ -13,3 +13,7 @@ https://www.google.com/intl/ko/chrome/
 
 https://www.anaconda.com/products/individual
 
+## 자료
+
+파이썬 리스트 문제 : https://wikidocs.net/7023
+
